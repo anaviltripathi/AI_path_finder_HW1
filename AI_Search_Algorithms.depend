@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1442113944 source:d:\study related\programming\tamu\ai_search_algorithms\search.material.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<sstream>
+	<algorithm>
+	<iterator>
+	<array>
+
+1442609935 source:d:\study related\programming\tamu\ai_search_algorithms\main_function.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<sstream>
+	<algorithm>
+	<iterator>
+	<array>
+	<D:\Study related\Programming\TAMU\AI_Search_Algorithms\Node.h>
+	<D:\Study related\Programming\TAMU\AI_Search_Algorithms\search_func.h>
+
